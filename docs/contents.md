@@ -1,6 +1,8 @@
 # Contents
 
 * What is cjdns?
+* What is Hyperboria?
+* What services can be used with cjdns?
 * What is a meshnet?
 * What is a darknet?
 * Are you a terrorist?
