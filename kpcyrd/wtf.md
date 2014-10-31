@@ -89,7 +89,12 @@ If we use the current domain name system it's not very secure
 ---
 ## Next steps
 
-- TODO
+- Android devs - Help going mobile
+- Peers - Help the networks health
+- Services - Help providing more useful stuff
+- Windows devs - Help the lost souls
+
+All skill levels wanted
 
 ---
 = data-x='-1000'
