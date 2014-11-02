@@ -24,6 +24,8 @@ http://realitysandwich.com/160579/meshnet_possible_uncensored_internet_alternati
 
 http://www.dutecs.com/how-to-stop-the-nsa-spying-on-your-data/
 
+http://nxter.org/hyperboria-adopts-nxt-aliases-for-dns-solution/ 
+
 ## ???
 
 http://www.zive.cz/clanky/sest-alternativnich-a-zapomenutych-internetu/sc-3-a-169392/default.aspx
