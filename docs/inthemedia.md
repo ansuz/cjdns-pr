@@ -26,6 +26,8 @@ http://www.dutecs.com/how-to-stop-the-nsa-spying-on-your-data/
 
 http://nxter.org/hyperboria-adopts-nxt-aliases-for-dns-solution/ 
 
+http://sett.com/alansjourney/52637
+
 ## ???
 
 http://www.zive.cz/clanky/sest-alternativnich-a-zapomenutych-internetu/sc-3-a-169392/default.aspx
